@@ -1,3 +1,5 @@
-Materia: Desarrollo y Arquitecturas Web 
+Repositorio pedido para practicas de la materia: Desarrollo y Arquitecturas Web 
 
-Alumna: Trinidad Ramos
+Carrera: Ingenieria en Sistemas - Universidad Abierta Interamericana - Rosario, Santa Fe, Argentina
+
+
